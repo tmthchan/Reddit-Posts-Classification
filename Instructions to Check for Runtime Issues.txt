@@ -1,0 +1,4 @@
+If you would like to test the codes for runtime issues, kindly run the codes in sequential order. 
+
+"counts_df.csv" and "tfidf_df.csv" are not included in the "data" folder as their file sizes are above the repository size limit.
+
